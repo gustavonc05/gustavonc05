@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Gustavo, sou apaixonado por programação desde pequeno e atualmente estou no 3º semestre do curso de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Tenho grande interesse em desenvolvimento de software e análise de dados, buscando sempre me aprimorar e aprender mais a cada dia. Sou uma pessoa proativa, comprometido com a entrega de resultados de qualidade e sempre em busca de soluções eficientes para os desafios que surgem.
+Me chamo Gustavo, sou apaixonado por programação desde pequeno e atualmente estou no 4º semestre do curso de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Tenho grande interesse em desenvolvimento de software e análise de dados, buscando sempre me aprimorar e aprender mais a cada dia. Sou uma pessoa proativa, comprometido com a entrega de resultados de qualidade e sempre em busca de soluções eficientes para os desafios que surgem.
 
 Atualmente, estou focado em encontrar uma oportunidade profissional nas áreas de análise de dados ou desenvolvimento de software, para aplicar meus conhecimentos e continuar crescendo como profissional.
 
